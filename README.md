@@ -30,3 +30,7 @@ npx sequelize-cli db:migrate
 ### 5 -> Run and have fun/test
 
 node app.js
+
+### 6 -> Swagger URL
+
+http://localhost:3000/api-docs/
